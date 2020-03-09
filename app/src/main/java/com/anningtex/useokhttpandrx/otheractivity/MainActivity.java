@@ -40,6 +40,7 @@ public class MainActivity extends BaseActivity {
                 $startActivity(LoginOneActivity.class);
                 break;
             case R.id.btn_two:
+                //常用的
                 $startActivity(LoginTwoActivity.class);
                 break;
             default:
